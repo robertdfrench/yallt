@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/robertdfrench/yallt.svg?branch=master)](https://travis-ci.org/robertdfrench/yallt)
+[![Coverage Status](https://coveralls.io/repos/github/robertdfrench/yallt/badge.svg?branch=master)](https://coveralls.io/github/robertdfrench/yallt?branch=master)
 
 # Y'allt
 **Yet Another ld-wrapping Library Tracker**
