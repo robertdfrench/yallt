@@ -1,5 +1,5 @@
 # Y'allt
-** Yet Another ld-wrapping Library Tracker **
+**Yet Another ld-wrapping Library Tracker**
 
 Y'allt is a (hopefully) unobtrusive user-space spyware tool that monitors
 usage of scientific software. It is available under the [Lesser GPL](LICENSE)
