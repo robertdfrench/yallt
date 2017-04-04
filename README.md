@@ -1,6 +1,7 @@
+[![Build Status](https://travis-ci.org/robertdfrench/yallt.svg?branch=master)](https://travis-ci.org/robertdfrench/yallt)
+
 # Y'allt
 **Yet Another ld-wrapping Library Tracker**
-[![Build Status](https://travis-ci.org/robertdfrench/yallt.svg?branch=master)](https://travis-ci.org/robertdfrench/yallt)
 
 Y'allt is a (hopefully) unobtrusive user-space spyware tool that monitors
 usage of scientific software. It is available under the [Lesser GPL](LICENSE)
